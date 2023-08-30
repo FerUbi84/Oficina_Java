@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="8" failures="7" name="trabalho_poo.AvariaTest" time="0.075" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="java.vm.version" value="16.0.2+7-67"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-16.0.2\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="PT"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="test" value="trabalho_poo.AvariaTest"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="16.0.2+7-67"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\fermg\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-16.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\fermg\AppData\Local\Programs\Python\Python310;C:\Users\fermg\AppData\Local\Microsoft\WindowsApps;C:\Users\fermg\AppData\Roaming\npm;C:\Users\fermg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Python39;;C:\Program Files\JetBrains\PyCharm Community Edition 2021.2.3\bin;;."/>
+    <property name="maven.conf" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="60.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\fermg"/>
+    <property name="user.timezone" value="Europe/Lisbon"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="16"/>
+    <property name="user.name" value="fermg"/>
+    <property name="java.class.path" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="16"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=trabalho_poo.AvariaTest -Dmaven.ext.class.path=C:\Program Files\NetBeans-12.5\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 surefire:test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-16.0.2"/>
+    <property name="user.language" value="pt"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="16.0.2"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\NetBeans-12.5\netbeans\java\maven\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2021-07-20"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="trabalho_poo.AvariaTest" name="trabalho_poo.AvariaTest.testGetIdAvaria" time="0.005"/>
+  <testcase classname="trabalho_poo.AvariaTest" name="trabalho_poo.AvariaTest.testSetCliente" time="0.013">
+    <failure message="The test case is a prototype." type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at trabalho_poo.AvariaTest.testSetCliente(AvariaTest.java:125)
+</failure>
+    <system-out>setCliente
+</system-out>
+  </testcase>
+  <testcase classname="trabalho_poo.AvariaTest" name="trabalho_poo.AvariaTest.testSetIdAvaria" time="0">
+    <failure message="The test case is a prototype." type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at trabalho_poo.AvariaTest.testSetIdAvaria(AvariaTest.java:138)
+</failure>
+    <system-out>setIdAvaria
+</system-out>
+  </testcase>
+  <testcase classname="trabalho_poo.AvariaTest" name="trabalho_poo.AvariaTest.testSetCounter" time="0.052">
+    <failure message="expected: &lt;5&gt; but was: &lt;4&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;5&gt; but was: &lt;4&gt;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:150)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:145)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:510)
+	at trabalho_poo.AvariaTest.testSetCounter(AvariaTest.java:149)
+</failure>
+    <system-out>setCounter
+</system-out>
+  </testcase>
+  <testcase classname="trabalho_poo.AvariaTest" name="trabalho_poo.AvariaTest.testGetCliente" time="0.001">
+    <failure message="The test case is a prototype." type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at trabalho_poo.AvariaTest.testGetCliente(AvariaTest.java:56)
+</failure>
+    <system-out>getCliente
+</system-out>
+  </testcase>
+  <testcase classname="trabalho_poo.AvariaTest" name="trabalho_poo.AvariaTest.testGetIdTipoAvariaString" time="0.001">
+    <failure message="expected: &lt;&gt; but was: &lt;queda&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;&gt; but was: &lt;queda&gt;
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1124)
+	at trabalho_poo.AvariaTest.testGetIdTipoAvariaString(AvariaTest.java:96)
+</failure>
+    <system-out>getIdTipoAvariaString
+</system-out>
+  </testcase>
+  <testcase classname="trabalho_poo.AvariaTest" name="trabalho_poo.AvariaTest.testGetIdTipoAvaria" time="0.001">
+    <failure message="The test case is a prototype." type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at trabalho_poo.AvariaTest.testGetIdTipoAvaria(AvariaTest.java:84)
+</failure>
+    <system-out>getIdTipoAvaria
+</system-out>
+  </testcase>
+  <testcase classname="trabalho_poo.AvariaTest" name="trabalho_poo.AvariaTest.testGetIdTipoProduto" time="0.002">
+    <failure message="The test case is a prototype." type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at trabalho_poo.AvariaTest.testGetIdTipoProduto(AvariaTest.java:112)
+</failure>
+    <system-out>getIdTipoProduto
+</system-out>
+  </testcase>
+</testsuite>

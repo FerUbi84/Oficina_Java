@@ -1,0 +1,58 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/fermg/OneDrive - Universidade da Beira Interior/2º ANO/Programação Orientada a Objectos/Trabalho_POO/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/fermg/OneDrive - Universidade da Beira Interior/2º ANO/Programação Orientada a Objectos/Trabalho_POO/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Trabalho_POO 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/fermg/OneDrive - Universidade da Beira Interior/2º ANO/Programação Orientada a Objectos/Trabalho_POO/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Trabalho_POO 1.0-SNAPSHOT API'
+trabalho_poo
+'C:/Users/fermg/OneDrive - Universidade da Beira Interior/2º ANO/Programação Orientada a Objectos/Trabalho_POO/src/main/java/trabalho_poo/Avaria.java'
+'C:/Users/fermg/OneDrive - Universidade da Beira Interior/2º ANO/Programação Orientada a Objectos/Trabalho_POO/src/main/java/trabalho_poo/Cliente.java'
+'C:/Users/fermg/OneDrive - Universidade da Beira Interior/2º ANO/Programação Orientada a Objectos/Trabalho_POO/src/main/java/trabalho_poo/Colaborador.java'
+'C:/Users/fermg/OneDrive - Universidade da Beira Interior/2º ANO/Programação Orientada a Objectos/Trabalho_POO/src/main/java/trabalho_poo/FileAction.java'
+'C:/Users/fermg/OneDrive - Universidade da Beira Interior/2º ANO/Programação Orientada a Objectos/Trabalho_POO/src/main/java/trabalho_poo/Main.java'
+'C:/Users/fermg/OneDrive - Universidade da Beira Interior/2º ANO/Programação Orientada a Objectos/Trabalho_POO/src/main/java/trabalho_poo/Reparacao.java'
+'C:/Users/fermg/OneDrive - Universidade da Beira Interior/2º ANO/Programação Orientada a Objectos/Trabalho_POO/src/main/java/trabalho_poo/Stock.java'
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\src\main\java = 1637839225614
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\allclasses-frame.html = 1641398823000
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\allclasses-index.html = 1642079378274
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\allclasses-noframe.html = 1641398823000
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\allpackages-index.html = 1642079378285
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\constant-values.html = 1641398823000
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\deprecated-list.html = 1641398823000
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\element-list = 1642079376266
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\help-doc.html = 1642079378411
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\index-all.html = 1642079378398
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\index.html = 1642079378403
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\jquery-ui.overrides.css = 1642079378851
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\member-search-index.js = 1642079378306
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\module-search-index.js = 1642079378292
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\overview-tree.html = 1642079378209
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\package-list = 1641398823000
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\package-search-index.js = 1642079378294
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\script.js = 1642079378463
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\search.js = 1642079378471
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\serialized-form.html = 1642079376894
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\stylesheet.css = 1642079378435
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\tag-search-index.js = 1642079378310
+C:\Users\fermg\OneDrive - Universidade da Beira Interior\2º ANO\Programação Orientada a Objectos\Trabalho_POO\target\site\apidocs\type-search-index.js = 1642079378301

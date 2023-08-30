@@ -1,0 +1,52 @@
+-------------------------------------------------------------------------------
+Test set: trabalho_poo.AvariaTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 7, Errors: 0, Skipped: 0, Time elapsed: 0.078 sec <<< FAILURE!
+trabalho_poo.AvariaTest.testSetCliente()  Time elapsed: 0.013 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at trabalho_poo.AvariaTest.testSetCliente(AvariaTest.java:125)
+
+trabalho_poo.AvariaTest.testSetIdAvaria()  Time elapsed: 0 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at trabalho_poo.AvariaTest.testSetIdAvaria(AvariaTest.java:138)
+
+trabalho_poo.AvariaTest.testSetCounter()  Time elapsed: 0.052 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <5> but was: <4>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:150)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:145)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:510)
+	at trabalho_poo.AvariaTest.testSetCounter(AvariaTest.java:149)
+
+trabalho_poo.AvariaTest.testGetCliente()  Time elapsed: 0.001 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at trabalho_poo.AvariaTest.testGetCliente(AvariaTest.java:56)
+
+trabalho_poo.AvariaTest.testGetIdTipoAvariaString()  Time elapsed: 0.001 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <> but was: <queda>
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
+	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:182)
+	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:177)
+	at org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:1124)
+	at trabalho_poo.AvariaTest.testGetIdTipoAvariaString(AvariaTest.java:96)
+
+trabalho_poo.AvariaTest.testGetIdTipoAvaria()  Time elapsed: 0.001 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at trabalho_poo.AvariaTest.testGetIdTipoAvaria(AvariaTest.java:84)
+
+trabalho_poo.AvariaTest.testGetIdTipoProduto()  Time elapsed: 0.002 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at trabalho_poo.AvariaTest.testGetIdTipoProduto(AvariaTest.java:112)
+
